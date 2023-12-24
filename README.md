@@ -4,12 +4,12 @@
 </h1>
 
 <!-- knock code pictures 敲代码的图片 -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/YangRucheng/YangRucheng/assets/images/coding.gif" /></div><br>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/coding.gif" /></div><br>
 
 <p>✍️&nbsp;&nbsp;你好(*´▽｀)ノノ，我是凌洛! 欢迎来到我的GitHub主页!（听说他很神秘，有一个代号-x441）</p>
 
 <!-- just img 图片 -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/YangRucheng/YangRucheng/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -43,7 +43,7 @@
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
 
 <!-- just img 图片-->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/YangRucheng/YangRucheng/assets/images/icon.png" /></div><br>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/icon.png" /></div><br>
 
 ```html
 /*                       _ooOoo_
@@ -78,4 +78,4 @@
  *             不见满街漂亮妹，哪个归得程序员？
  */
 ```
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/YangRucheng/YangRucheng/assets/images/man1.png" alt="mengla Lifting Weights" width="250" height="250" />
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man1.png" alt="mengla Lifting Weights" width="250" height="250" />
