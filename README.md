@@ -9,7 +9,7 @@
 <p>✍️&nbsp;&nbsp;你好(*´▽｀)ノノ，我是凌洛! 欢迎来到我的GitHub主页!（听说他很神秘，有一个代号-x441）</p>
 
 <!-- just img 图片 -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man.jpg" alt="Man Lifting Weights" width="250" height="250" />
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man1.jpg" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
@@ -78,4 +78,4 @@
  *             不见满街漂亮妹，哪个归得程序员？
  */
 ```
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man1.gif" alt="mengla Lifting Weights" width="250" height="250" />
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man.gif" alt="mengla Lifting Weights" width="250" height="250" />
