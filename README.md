@@ -78,4 +78,4 @@
  *             不见满街漂亮妹，哪个归得程序员？
  */
 ```
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man.gif" alt="mengla Lifting Weights" width="250" height="250" />
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/x441/x441/assets/images/man.gif" /></div><br>
