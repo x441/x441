@@ -2,6 +2,6 @@
 
 # **Choro.**
 
-Simple • Clean • Cool
+Welcome🥳
 
 </div>
